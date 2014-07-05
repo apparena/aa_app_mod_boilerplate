@@ -1,0 +1,1 @@
+Place your special CSS file for this module here and add them into the CSS config file. The config file will be load automatically by the app template and merge them with the global config.

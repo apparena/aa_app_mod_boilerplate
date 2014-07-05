@@ -1,0 +1,1 @@
+Place your module images here, if you want to use some special ones for this module. Like background images or something like this.

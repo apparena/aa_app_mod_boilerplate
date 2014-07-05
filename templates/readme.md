@@ -1,0 +1,1 @@
+The place for all your module templates is here. You can load this with require into your views.

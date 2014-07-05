@@ -1,0 +1,1 @@
+Put all your module collections here to use them in combination with the models into the views
