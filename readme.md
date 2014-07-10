@@ -1,11 +1,7 @@
 # App-Arena.com App Module Boilerplate
-
-## Information
-* **Github:** [Repository](https://github.com/apparena/aa_app_mod_boilerplate)
-* **Docs:**   [Appalizr.com](http://www.appalizr.com/docs.html)
+* **Github:** https://github.com/apparena/aa_app_mod_boilerplate
+* **Docs:**   http://www.appalizr.com/index.php/boilerplate.html
 * This is a module of the [aa_app_template](https://github.com/apparena/aa_app_template)
-
-This is a module of the [aa_app_template](https://github.com/apparena/aa_app_template)
 
 ## Module job
 description
